@@ -10,6 +10,10 @@ const emojiDictionary = {
   "❤": "love",
   "😑": "annoyance",
   "🥱": "yawning",
+  "🤡": "joker",
+  "😀": "smiling",
+  "🤐": "zipper-mouth",
+  "😞": "disapponted-face",
 };
 
 const emojisWeKnow = Object.keys(emojiDictionary);
